@@ -1,0 +1,9 @@
+{
+"name": "vitorionettoadvocacia",
+"version": "1.0.0",
+"private": true,
+"description": "Portal de Apresentação e Aprovação de Conteúdo",
+"dependencies": {
+"@netlify/blobs": "^10.7.12"
+}
+}  
